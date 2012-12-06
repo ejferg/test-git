@@ -1,7 +1,7 @@
-function main(arg){
+private function main(arg){
    console.log('test git');
 }
 
-function newFunction(){
+private function newFunction(){
   console.log('more test');
 }

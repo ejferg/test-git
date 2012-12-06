@@ -3,4 +3,5 @@ function main(arg){
 }
 
 function newFunction(){
+  console.log('more test');
 }

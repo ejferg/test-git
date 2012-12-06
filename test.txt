@@ -1,3 +1,6 @@
-function main(){
+function main(arg){
    console.log('test git');
+}
+
+function newFunction(){
 }
